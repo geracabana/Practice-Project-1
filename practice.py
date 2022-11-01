@@ -158,3 +158,6 @@ cities
 "Excercise: 9 (pag49)"
 'Excercise: 9 (pag49)'
 
+print output
+import subprocess
+
